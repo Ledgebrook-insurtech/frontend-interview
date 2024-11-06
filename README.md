@@ -10,7 +10,7 @@ Create a user registration form that includes fields for the user.
   - Name (text input)
   - Email (email input)
   - Country (select dropdown)
-- Fetch the list of countries from the REST Countries API: https://api.first.org/data/v1/countries and populate the country dropdown
+- Fetch the list of countries from the REST Countries API: https://restcountries.com/v3.1/all and populate the country dropdown
 - Implement form validation:
   - Name is required.
   - Email is required and should be a valid email address.
